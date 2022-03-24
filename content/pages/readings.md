@@ -40,7 +40,7 @@ Jack, Andrew. "[Pharmaceuticals: Back to the Lab](http://www.ft.com/intl/cms/s/0
 
 Munos, B. "[Lessons from 60 Years of Pharmaceutical Innovation](http://dx.doi.org/10.1038/nrd2961)." _Nature Reviews Drug Discovery_ 8 (2009): 959–68.
 
-U.S. Food and Drug Administration. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"FY 2011 Innovative Drug Approvals." (PDF - 5.0MB)](http://www.biopreneur.org/images/FY%202011%20Innovative%20Drug%20Approvals.pdf) U.S. Department of Health and Human Services, U.S. Food and Drug Administration.
+U.S. Food and Drug Administration. ["FY 2011 Innovative Drug Approvals." (PDF - 5.0MB)](http://www.biopreneur.org/images/FY%202011%20Innovative%20Drug%20Approvals.pdf) U.S. Department of Health and Human Services, U.S. Food and Drug Administration.
 
 
 {{< tdclose >}}
@@ -66,7 +66,7 @@ Rang, H. P., ed. Chapters 1–3 in _Drug Discovery and Development: Technology i
 
 Saftlas, Herman. "Healthcare: Pharmaceuticals." _Standard & Poor's Industry Surveys_. June 4, 2009. _S&P Net Advantage_.
 
-U.S. Food and Drug Administration. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"FY 2011 Innovative Drug Approvals." (PDF - 5.0MB)](http://www.fda.gov/downloads/AboutFDA/ReportsManualsForms/Reports/UCM278358.pdf) U.S. Department of Health and Human Services, U.S. Food and Drug Administration.
+U.S. Food and Drug Administration. ["FY 2011 Innovative Drug Approvals." (PDF - 5.0MB)](http://www.fda.gov/downloads/AboutFDA/ReportsManualsForms/Reports/UCM278358.pdf) U.S. Department of Health and Human Services, U.S. Food and Drug Administration.
 
 
 {{< tdclose >}}
@@ -116,7 +116,7 @@ Silberman, Steve. "[Placebos are Getting More Effective. Drugmakers are Desperat
 
 ### Recommended
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Merck & Schering-Plough Merger Investor Presentation (PDF)](http://media.corporate-ir.net/media_files/irol/89/89839/FINAL_Merck_Schering-Plough_Presentation.pdf) March 9, 2009. Merck Schering-Plough.
+[Merck & Schering-Plough Merger Investor Presentation (PDF)](http://media.corporate-ir.net/media_files/irol/89/89839/FINAL_Merck_Schering-Plough_Presentation.pdf) March 9, 2009. Merck Schering-Plough.
 
 Schoeberl, B., E. A. Pace, et al. "[Therapeutically Targeting ErbB3: A Key Node in Ligand-Induced Activation of the ErbB Receptor–PI3K Axis](http://dx.doi.org/10.1126/scisignal.2000352)." _Science Signaling_ 77, no. 2 (2009): ra31.
 
@@ -244,17 +244,17 @@ Thomas, Katie. "[Lapses at Big Drug Factories Add to Shortages and Danger](http:
 
 Basu, P., G. Joglekar, et al. "[Analysis of Manufacturing Costs in Pharmaceutical Companies](http://dx.doi.org/10.1007/s12247-008-9024-4)." _Journal of Pharmaceutical Innovation_ 3, no. 1 (2008): 30–40.
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Quality Manufacturing: A Blockbuster Opportunity for Pharmaceuticals, An Economist Intelligence Unit White Paper Written in Co-operation with Oracle." (PDF)](http://graphics.eiu.com/files/ad_pdfs/eiu_oracle_pharma_wp.pdf) _Economist Intelligence Unit, The Economist_, September 2005.
+["Quality Manufacturing: A Blockbuster Opportunity for Pharmaceuticals, An Economist Intelligence Unit White Paper Written in Co-operation with Oracle." (PDF)](http://graphics.eiu.com/files/ad_pdfs/eiu_oracle_pharma_wp.pdf) _Economist Intelligence Unit, The Economist_, September 2005.
 
 "[Business: Trouble in the Making; Pharmaceuticals](http://www.economist.com/node/1302425)." _The Economis_t 364, no. 8288 (2002).
 
 ### Recommended
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Guidance for Industry Q8(R2) Pharmaceutical Development." (PDF)](http://www.fda.gov/downloads/Drugs/Guidances/ucm073507.pdf) ICH Revision 2. U.S. Department of Health and Human Services, Food and Drug Administration, November 2009.
+["Guidance for Industry Q8(R2) Pharmaceutical Development." (PDF)](http://www.fda.gov/downloads/Drugs/Guidances/ucm073507.pdf) ICH Revision 2. U.S. Department of Health and Human Services, Food and Drug Administration, November 2009.
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Guidance for Industry Q9 Quality Risk Management." (PDF)](https://www.fda.gov/media/71543/download) ICH. U.S. Department of Health and Human Services, Food and Drug Administration, June 2006.
+["Guidance for Industry Q9 Quality Risk Management." (PDF)](https://www.fda.gov/media/71543/download) ICH. U.S. Department of Health and Human Services, Food and Drug Administration, June 2006.
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Guidance for Industry Q10 Pharmaceutical Quality System." (PDF)](http://www.fda.gov/downloads/Drugs/Guidances/ucm073517.pdf) ICH. U.S. Department of Health and Human Services, Food and Drug Administration, April 2009.
+["Guidance for Industry Q10 Pharmaceutical Quality System." (PDF)](http://www.fda.gov/downloads/Drugs/Guidances/ucm073517.pdf) ICH. U.S. Department of Health and Human Services, Food and Drug Administration, April 2009.
 
 
 {{< tdclose >}}

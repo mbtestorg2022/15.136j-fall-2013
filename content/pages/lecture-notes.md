@@ -28,7 +28,7 @@ LECTURE NOTES
 Brief Economic History of the Pharmaceutical Industry
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 2 Evolving Economics (PDF - 1.5MB)]({{< baseurl >}}/resources/mit15_136jf13_lec2_dr)
+[Lecture 2 Evolving Economics (PDF - 1.5MB)]({{< baseurl >}}/resources/mit15_136jf13_lec2_dr)
 {{< tdclose >}}
 
 {{< trclose >}}

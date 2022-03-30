@@ -4,6 +4,7 @@ description: This resource contains the information regarding opportunities in n
   diseases.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/8bf8d8ef89fdc4f91768173b37374364_MIT15_136JF13_Opp_Neuro_Dis.pdf
 file_type: application/pdf
+parent_uid: 79b8d1fc-f941-79ee-5b85-643d83cdc816
 resourcetype: Document
 title: Opportunities in Neurological Diseases
 uid: 8bf8d8ef-89fd-c4f9-1768-173b37374364
